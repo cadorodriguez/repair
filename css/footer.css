@@ -1,0 +1,42 @@
+.container-footer{
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-end;
+    background: #1B98E0;
+    box-shadow: 2px 0px 7px rgba(0, 0, 0, 0.06);
+    border-radius: 20px 20px 0px 0px;
+    height: 80px;
+    margin-top: 20px;
+   
+}
+
+
+.div-footer{
+    display: flex;
+    margin: 0px auto 0px auto;
+    justify-content: space-between;
+    align-items: flex-end;
+
+}
+
+.div-footer-sos {
+    display: flex;
+    margin: 0px 400px 0px 400px;
+}
+
+.sos{
+    width: 100px;
+    height: 100px;
+}
+
+.home{
+    width: 60px;
+    height: 60px;
+    padding: 5px;
+}
+
+.folder{
+    width: 60px;
+    height: 60px;
+    padding: 5px;
+}

@@ -1,0 +1,43 @@
+body{
+    background: #FFFFFF;
+}
+
+header{
+    display: flex;
+    justify-content: center;
+}
+
+.container-procura{
+    margin-top: 5%;
+    margin-bottom: 1%;
+}
+
+.container-procura{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ 
+}
+
+.buscarServico {
+    width: auto;
+    height: 380px; 
+    margin-top: 40px; 
+    margin-bottom: 100px;  
+}
+
+.oferecerServico{
+    width: auto;
+    height: 380px;  
+    margin-top: 40px; 
+    margin-bottom: 100px;
+    cursor: pointer;   
+}
+
+.container-opcaoProcura .opcaoProcura{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: row;
+    cursor: pointer;
+}

@@ -1,0 +1,120 @@
+header{
+    display: flex;
+    justify-content: center;
+}
+
+.container-servico .container-servicoLogo{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+
+
+}
+
+.img-voltar{
+    display: flex;
+    width: 30px;
+    height: 30px;
+}
+
+.secao-busca{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+}
+.div-busca{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.titula-busca{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 20px;
+    letter-spacing: 0.1em;
+    color: #247BA0;
+    padding-top: 10px;
+    margin-bottom: 15px;
+}
+
+.subTitulo-busca{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    letter-spacing: 0.1em;
+    color: #247BA0;
+    margin-bottom: 20px;
+}
+  
+
+
+.input-pesquisaServico{
+    display: flex;
+    width: 500px;
+    height: 45px;
+    left: 15px;
+    top: 260px;
+    background: #1B98E0;
+    border-radius: 8px;
+    flex-direction: row-reverse;
+    align-content: center;
+    justify-content: space-around;
+    align-items: stretch;
+}
+
+.imgBusca{
+    width: 30px;
+    height: 30px;
+    margin-right: 2%;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+.txtBusca{
+    float: left;
+    background-color: transparent;
+    padding-left: 5px;
+    border: none;
+    width: 345px;
+    height: 45 px;
+    padding-left: 100px;
+  
+}
+
+.txtBusca::placeholder{
+    color: #006494;   
+    left: 84px;
+    top: 274px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    letter-spacing: 0.1em;
+}
+
+.container-servicoCategoria{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+}
+
+.servicoCategoria{
+    padding: 5px;
+    margin-bottom: 40px;
+    cursor: pointer;
+}
+
+
+
