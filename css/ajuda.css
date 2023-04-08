@@ -65,7 +65,7 @@
 .separador-ajuda{
     height: 3px;
     width: 10%;
-    margin-left: 10%; 
+
 }
 
 .secao-ajuda{
@@ -92,5 +92,6 @@
     .titulo-ajudaprincipal{
 
         margin-right: 75px;
+        font-size: 28px;
     }
 }
