@@ -21,8 +21,39 @@
     padding-top: 10px;
     margin-bottom: 45px;
 
+
 }
 
+.secao-imagem{
+    display: flex;
+    justify-content: center;
+}   
+
+.secao-eletricistaProf{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 50px;
+}
+
+.titulo-eletricista{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.pontos-media{
+    width: 300px;
+    padding: 30px ;
+}
+
+.pontos{
+    width: 300px;
+    padding: 30px;
+}
 .secao-eletricista{
     display: flex;
     flex-direction: column;
