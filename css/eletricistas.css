@@ -1,0 +1,44 @@
+.profissionais{
+    padding: 15px;
+    margin-bottom: 40px;
+    width:  200px;
+    cursor: pointer;
+}
+
+.titulo-eletricista{
+    display: flex;
+    justify-content: center;
+}
+
+.titulo-eletricistaPrincipal{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 20px;
+    letter-spacing: 0.1em;
+    color: #247BA0;
+    padding-top: 10px;
+    margin-bottom: 45px;
+
+}
+
+.secao-eletricista{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.texto-eletricista{
+    margin-bottom: 15px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 18px;
+    text-align: center;
+    letter-spacing: 0.1em;
+    color: #247BA0;
+}
+

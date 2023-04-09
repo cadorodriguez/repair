@@ -44,14 +44,14 @@
 }
 
 
-@media (max-width: 900px) {
+@media (max-width: 1000px) {
     .div-footer-sos {
         display: flex;
         padding: 0px 100% 0px 100%;
     }
 }
 
-@media (max-width: 600px) {
+@media (max-width: 700px) {
     .div-footer-sos {
         display: flex;
         padding: 0px 40% 0px 40%;
