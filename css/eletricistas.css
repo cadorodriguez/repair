@@ -73,3 +73,9 @@
     color: #247BA0;
 }
 
+@media (max-width: 400px) {
+    .titulo-eletricistaPrincipal {
+        font-size: 23px;
+}
+}
+
