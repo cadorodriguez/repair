@@ -58,7 +58,7 @@
     }
 }
 
-@media (max-width: 426px) {
+@media (max-width: 418px) {
     .div-footer-sos {
         display: flex;
         padding: 0px 18% 0px 18%;
@@ -83,11 +83,11 @@
 @media (max-width: 375px) {
     .div-footer-sos {
         display: flex;
-        padding: 0px 10% 0px 10%;
+        padding: 0px 12% 0px 12%;
     }
     .folder{
-        width: 30px;
-        height: 30px;
+        width: 32px;
+        height: 32px;
     }
 
     .sos {
@@ -96,7 +96,7 @@
     }
 
     .home{
-        width: 30px;
-        height: 30px;
+        width: 32px;
+        height: 32px;
     }
 }
