@@ -116,7 +116,15 @@ header{
     cursor: pointer;
 }
 
+.cards{
+    display: flex;
+}
+
 .none{
     display: none;
+
+}
+li{
+    padding: 30px;
 }
 

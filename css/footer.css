@@ -56,6 +56,11 @@
         display: flex;
         padding: 0px 40% 0px 40%;
     }
+    
+    .cards {
+        display: block;
+    }
+
 }
 
 @media (max-width: 418px) {
