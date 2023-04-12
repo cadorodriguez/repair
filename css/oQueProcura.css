@@ -21,7 +21,7 @@ header{
 }
 
 .opcaoProcura{
-    flex-shrink: 1;
+   
     text-align: center;
     padding: 15px;
 }
@@ -52,4 +52,16 @@ header{
     align-items: center;
     flex-direction: row;
     cursor: pointer;
+}
+
+@media (max-width: 690px) {
+    .buscarServico {
+        margin-bottom: 50px;
+        height: 350px;
+    }
+
+    .oferecerServico{
+        margin-bottom: 50px;
+        height: 350px;
+    }
 }

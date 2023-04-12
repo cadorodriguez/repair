@@ -107,7 +107,7 @@ header{
     align-content: center;
     justify-content: space-around;
     align-items: center;
-    margin-top: 40px;
+    margin: 40px 0px 40px 0px;
 }
 
 .servicoCategoria{
@@ -128,3 +128,8 @@ li{
     padding: 30px;
 }
 
+@media (max-width: 690px) {
+    li {
+        padding: 5px;
+    }
+}

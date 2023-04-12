@@ -38,7 +38,7 @@
     letter-spacing: 0.1em;
     color: #247BA0;
     margin-bottom: 25px;
-    margin-right: 500px;
+    margin-right: auto;
 }
 
 .titulo-ajuda{
@@ -50,7 +50,8 @@
 }
 
 .texto-ajuda{
-    margin-bottom: 10px;    
+    text-align: center;
+    margin-bottom: 10px;
     font-family: 'Montserrat';
     font-style: normal;
     font-weight: 400;
@@ -60,6 +61,11 @@
     align-items: center;
     letter-spacing: 0.1em;
     color: #247BA0;
+    padding-bottom: 5px;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+    flex-wrap: wrap;
 }
 
 .separador-ajuda{

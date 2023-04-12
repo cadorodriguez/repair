@@ -1,3 +1,11 @@
+footer{
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 100%;
+    line-height: 100%;
+}
+
 .container-footer{
     display: flex;
     justify-content: space-around;

@@ -24,7 +24,7 @@ function filterCards() {
     else{
         
         for (let card of cards){
-            card.style.display = block
+            card.style.display = 'block'
         }
     }
 
